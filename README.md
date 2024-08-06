@@ -4,12 +4,15 @@
 src="https://www.esds.co.in/assets/images/public-cloud/scalable-secure-&-reliable-public-cloud.gif">
 
 
+
  As i motivated Cloud Engineering Intern, iam focus on mastering **Microsoft Azure** is commendable. in CloudSlize, honing my skills in Azure deployment, management, and optimization will undoubtedly provide valuable experience. Learning from industry experts will accelerate my growth, and I’m sure i will make a significant impact in the field! 🚀 
 
 🔭 I’m currently working on **CloudSlize**
 🌱 I’m currently learning Cloud Services **(Microsoft Azure), Terraform**
 📫 How to reach me :
 <br/> <a href="mailto:mohamedshahrukh617@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohamed-shahrukh-7b8964282/)
+
 
 
 
