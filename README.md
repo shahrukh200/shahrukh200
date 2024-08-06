@@ -1,5 +1,5 @@
 <h1 align="center"><b>   ## Hi 👋, iam Mohamed Shahrukh</b></h1>
-<h3 align="center> Cloud Engineer intern @ cloud slize</h3>
+<h3 align="center> Cloud Engineer intern @ cloudslize</h3>
 <img align="right" width="500" height="300"
 src="https://www.esds.co.in/assets/images/public-cloud/scalable-secure-&-reliable-public-cloud.gif">
 
@@ -12,6 +12,7 @@ src="https://www.esds.co.in/assets/images/public-cloud/scalable-secure-&-reliabl
 📫 How to reach me :
 <br/> <a href="mailto:mohamedshahrukh617@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohamed-shahrukh-7b8964282/)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/shahrukh200/)
 
 
 
