@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi 👋, iam Mohamed Shahrukh 
+
+
+
+
+ As i motivated Cloud Engineering Intern, iam focus on mastering Microsoft Azure is commendable. in CloudSlize, honing my skills in Azure deployment, management, and optimization will undoubtedly provide valuable experience. Learning from industry experts will accelerate my growth, and I’m sure i will make a significant impact in the field! 🚀 
+
+
+
+
 
 <!--
 **shahrukh200/shahrukh200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
