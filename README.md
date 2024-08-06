@@ -17,6 +17,12 @@ src="https://www.esds.co.in/assets/images/public-cloud/scalable-secure-&-reliabl
 <a href="mailto:sharuk@cloudslize.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 
 
+
+#### Languages & Tools</br>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/terraform.png" alt="terraform"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+</br></br>
+
+
 <!--
 **shahrukh200/shahrukh200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
