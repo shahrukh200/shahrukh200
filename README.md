@@ -1,7 +1,7 @@
 <h1 align="center"><b>   ## Hi 👋, iam Mohamed Shahrukh</b></h1>
 <h3 align="center> Cloud Engineer intern @ cloud slize</h3>
 <img align="right" width="600" height="400"
-src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvNKqva2KePhElQpULy261Q_HAQ-1H-poxXg&s">
+src"https://www.corenttech.com/images/azure_stack_animation.gif">
 
 
 
