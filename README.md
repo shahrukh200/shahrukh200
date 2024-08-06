@@ -1,7 +1,6 @@
 <h1 align="center"><b>   ## Hi 👋, iam Mohamed Shahrukh</b></h1>
 <h3 align="center> Cloud Engineer intern @ cloudslize</h3>
-<img align="right" width="400" height="300"
-src="https://www.esds.co.in/assets/images/public-cloud/scalable-secure-&-reliable-public-cloud.gif">
+<img align="right" width="400" height="300"  src="https://www.esds.co.in/assets/images/public-cloud/scalable-secure-&-reliable-public-cloud.gif">
 
 
 
