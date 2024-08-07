@@ -1,6 +1,6 @@
 <h1 align="center"><b>   ## Hi 👋, iam Mohamed Shahrukh</b></h1>
 <h3 align="center> Cloud Engineer intern @ cloudslize</h3>
-<img align="right" width="400" height="300"  src="https://www.corenttech.com/images/azure_stack_animation.gif"
+<img align="right" width="400" height="300"  src="https://www.corenttech.com/images/azure_stack_animation.gif">
 
  As i motivated Cloud Engineering Intern, iam focus on mastering **Microsoft Azure** is commendable. in CloudSlize, honing my skills in Azure deployment, management, and optimization will undoubtedly provide valuable experience. Learning from industry experts will accelerate my growth, and I’m sure i will make a significant impact in the field! 🚀 
 
