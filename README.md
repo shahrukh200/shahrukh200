@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 -🌱 I’m currently learning Cloud Services  (Microsoft Azure), Terraform .
 
 - ⚡I completed my first terraform task 👉[Terraform IaC Azure VNET,Subnet,NSG and Association automation](https://github.com/shahrukh200/Terraform_Homework).
-- 
+  
 -📫 How to reach me :
 
 <br/> <a href="mailto:mohamedshahrukh617@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
