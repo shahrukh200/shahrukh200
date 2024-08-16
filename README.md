@@ -1,8 +1,9 @@
 <h1 align="center"><b>   ## Hi 👋, iam Mohamed Shahrukh</b></h1>
 
-<h3 align="center> Cloud Engineer intern @ cloudslize</h3>
- 
-<img align="right" width="200" height="200" src="https://smeoncloud.in/wp-content/uploads/2022/03/What-is-cloud-computing-1.gif">
+<h3 align="center"> Cloud Engineer intern @ cloudslize </h3>
+
+ <img align="right" width="600" height="300" src="https://github.com/user-attachments/assets/88d1564d-9fac-4541-8368-30664b370694">
+
 
 <!--
 **shahrukh200/shahrukh200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
 
 -🌱 I’m currently learning Cloud Services  (Microsoft Azure), Terraform .
 
-- ⚡I completed my first terraform task 👉[Terraform IaC Azure VNET,Subnet,NSG and Association automation](https://github.com/shahrukh200/Terraform_Homework).
+-⚡I completed my first terraform task 👉[Terraform IaC Azure VNET,Subnet,NSG and Association automation](https://github.com/shahrukh200/Terraform_Homework).
   
 -📫 How to reach me :
 
@@ -42,7 +43,8 @@ Here are some ideas to get you started:
 
 
 #### Languages & Tools</br>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/terraform.png" alt="terraform"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/><img width="48" height="48" 
+src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/terraform.png" alt="terraform"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 </br></br>
 
 
