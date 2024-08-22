@@ -2,7 +2,7 @@
 
 <h3 align="center"> Cloud Engineer intern @ cloudslize </h3>
 
- <img align="right" width="600" height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fepsilontel.com%2Fcloud%2Fknow-your-clouds-microsoft-azure%2F&psig=AOvVaw1tWSJOZeXAz-Dpkv2Oj7xq&ust=1724387672003000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjxoejih4gDFQAAAAAdAAAAABAE">
+ <img align="right" width="600" height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40hminnovance%2Fthe-impact-of-cloud-computing-on-web-development-and-app-development-a034962478f&psig=AOvVaw1tWSJOZeXAz-Dpkv2Oj7xq&ust=1724387672003000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjxoejih4gDFQAAAAAdAAAAABAV">
 
 
 <!--
