@@ -2,7 +2,7 @@
 
 <h3 align="center"> Cloud Engineer intern @ cloudslize </h3>
 
- <img align="right" width="600" height="300" src="https://github.com/user-attachments/assets/88d1564d-9fac-4541-8368-30664b370694">
+ <img align="right" width="600" height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fepsilontel.com%2Fcloud%2Fknow-your-clouds-microsoft-azure%2F&psig=AOvVaw1tWSJOZeXAz-Dpkv2Oj7xq&ust=1724387672003000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjxoejih4gDFQAAAAAdAAAAABAE">
 
 
 <!--
