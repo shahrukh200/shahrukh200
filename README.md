@@ -2,7 +2,7 @@
 
 <h3 align="center"> Cloud Engineer intern @ cloudslize </h3>
 
- <img align="right" width="400" height="300" src="https://www.google.com/search?sca_esv=72a77e0de43251b7&sca_upv=1&sxsrf=ADLYWIJcf9FiOS4hhSn3hm3wQ0yBC8Hcsw:1724301191753&q=cloud+computing+azure+cloud+using+gif&uds=ADvngMiNeCUZ07E1W8G218PxPfLZLTUw21YvUKZrCDsHLvyS4-WM6151caMB5efcXeQKOYBcQPi81B9tasqhflnLraMg6pax-IaSaN6dUa3WBmXOejvARSzS_-gmBQ7p3TgpQRwymVs_-HC8ZivOzPC6mJxfr05H0w&udm=2&sa=X&ved=2ahUKEwjNwZTA4oeIAxV_4TgGHVuUEMwQxKsJegQICxAB&ictx=0&biw=1280&bih=533&dpr=1.5#vhid=cxJwLk1kcH4_JM&vssid=mosaic">
+ <img align="right" width="400" height="300" src="https://miro.medium.com/v2/resize:fit:679/1*p1ePoV0KSUbS0cXJkqBlgw.gif">
 
 
 <!--
