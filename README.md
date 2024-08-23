@@ -48,6 +48,13 @@ src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img widt
 </br></br>
 
 
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahrukh200&bg_color=171617&color=f5f5f5&line=00ff33&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 <!--
 **shahrukh200/shahrukh200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
